@@ -20,3 +20,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Uygulama Videosu
+
+
+https://github.com/bekir7/TechCareerBootcamp/assets/49992321/10dc3b9d-b2b0-4deb-889b-ce3795244e86
+
